@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     using UnityEngine;
     
     [RequireComponent(typeof(DecentCoworkers), typeof(CozyEnvironment))]
-    public class YagizAyer : MonoBehaviour<br>
+    public class YagizAyer : MonoBehaviour
     {
     
         [Header("Contact Info")]
