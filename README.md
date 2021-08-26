@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -90,40 +91,40 @@ Here are some ideas to get you started:
     
     
         [Tooltip("Unity Experiences of Yagiz")]
-        private List<(string, ExperienceLevel)> _unityExperiences = new List<(string, ExperienceLevel)>()
+        private List<(ExperienceLevel, string)> _unityExperiences = new List<(ExperienceLevel, string)>()
         {
-            ("Callbacks and UnityActions",ExperienceLevel.Intermediate),
-            ("Event Driven Programming",ExperienceLevel.Intermediate),
-            ("CleanCode Education",ExperienceLevel.Intermediate),
-            ("Scriptable Objects",ExperienceLevel.Intermediate),
-            ("Project Management",ExperienceLevel.Intermediate),
-            ("Unity Collab",ExperienceLevel.BelowIntermediate),
-            ("Spline Tools",ExperienceLevel.BelowIntermediate),
-            ("CineMachine",ExperienceLevel.BelowIntermediate),
-            ("Runtime Mesh Operations",ExperienceLevel.BelowIntermediate),
+            (ExperienceLevel.Intermediate,"Callbacks and UnityActions"),
+            (ExperienceLevel.Intermediate,"Event Driven Programming"),
+            (ExperienceLevel.Intermediate,"CleanCode Education"),
+            (ExperienceLevel.Intermediate,"Scriptable Objects"),
+            (ExperienceLevel.Intermediate,"Project Management"),
+            (ExperienceLevel.BelowIntermediate,"Unity Collab"),
+            (ExperienceLevel.BelowIntermediate,"Spline Tools"),
+            (ExperienceLevel.BelowIntermediate,"CineMachine"),
+            (ExperienceLevel.BelowIntermediate,"Runtime Mesh Operations"),
         };
     
     
         [Tooltip("Blender Experiences of Yagiz")]
-        private List<(string, ExperienceLevel)> _blenderExperiences = new List<(string, ExperienceLevel)>()
+        private List<(ExperienceLevel, string)> _blenderExperiences = new List<(ExperienceLevel, string)>()
         {
-            ("Model Re-shaping",ExperienceLevel.Intermediate),
-            ("Modifiers",ExperienceLevel.BelowIntermediate),
-            ("Texturing",ExperienceLevel.BelowIntermediate),
-            ("Material Operations",ExperienceLevel.BelowIntermediate),
-            ("Mesh Operations",ExperienceLevel.BelowIntermediate),
+            (ExperienceLevel.Intermediate,"Model Re-shaping"),
+            (ExperienceLevel.BelowIntermediate,"Modifiers"),
+            (ExperienceLevel.BelowIntermediate,"Texturing"),
+            (ExperienceLevel.BelowIntermediate,"Material Operations"),
+            (ExperienceLevel.BelowIntermediate,"Mesh Operations"),
         };
     
     
         [Tooltip("Other Experiences of Yagiz")]
-        private List<(string, ExperienceLevel)> _otherExperiences = new List<(string, ExperienceLevel)>()
+        private List<(ExperienceLevel, string)> _otherExperiences = new List<(ExperienceLevel, string)>()
         {
-            ("Html-Css-Javascript",ExperienceLevel.Intermediate),
-            ("Php",ExperienceLevel.Intermediate),
-            ("Adobe xd",ExperienceLevel.Intermediate),
-            ("Flutter",ExperienceLevel.BelowIntermediate),
-            ("Mongo Database",ExperienceLevel.BelowIntermediate),
-            ("Nodejs-Angular 6",ExperienceLevel.BelowIntermediate),
+            (ExperienceLevel.Intermediate,"Html-Css-Javascript"),
+            (ExperienceLevel.Intermediate,"Php"),
+            (ExperienceLevel.Intermediate,"Adobe xd"),
+            (ExperienceLevel.BelowIntermediate,"Flutter"),
+            (ExperienceLevel.BelowIntermediate,"Mongo Database"),
+            (ExperienceLevel.BelowIntermediate,"Nodejs-Angular 6"),
         };
     
     
@@ -148,7 +149,8 @@ Here are some ideas to get you started:
     
     
         [Tooltip("Goals of Yagiz")]
-        [SerializeField]private List<(Goal,string)> _goals = new List<(Goal, string)>(){
+        [SerializeField]
+        private List<(Goal, string)> _goals = new List<(Goal, string)>(){
             (Goal.ShortTerm, "Writing a game scenario in a month"),
             (Goal.ShortTerm, "Making at least 20 games by the end of 2021"),
             (Goal.ShortTerm, "Making at least 1 game with machine learning in 6 months"),
@@ -159,5 +161,3 @@ Here are some ideas to get you started:
             (Goal.LongTerm, "Making a game that everyone has heard of in 7 years.")
         };
     }
-
-
