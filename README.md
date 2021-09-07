@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: M'dude!
 - ⚡ Fun fact: I can do this:</br> ![GooglyEyes](Resources/googlyEyes.png)
 
+------------------------    Play My Games!    ------------------------*/<br>
+All of my games is open source
 
+Fps Reflex Enhancer : https://yagizayer.github.io/Fps_Reflex_Game_v03/
+Temple of Artemis : https://yagizayer.github.io/Temple-Of-Artemis/
+Health Racer : https://yagizayer.github.io/HealthRacer/
+Rollercoaster Simulator : https://yagizayer.github.io/RollerCoasterSimulator/
 
 ------------------------    yagizayer.cs    ------------------------*/<br>
 
@@ -36,7 +42,8 @@ Here are some ideas to get you started:
     
     
         [Tooltip("General working experience")]
-        private List<(DateRange, int, Company)> _workingExperience = new List<(DateRange, int, Company)>(){
+        private List<(DateRange, int, Company)> _workingExperience = new List<(DateRange, int, Company)>()
+        {
             (
                 DateRange.Month,
                 3,
@@ -74,7 +81,7 @@ Here are some ideas to get you started:
                     location: City.Remote,
                     website :"peopleperhour.com",
                     contact :new Contact(
-                        "Heiko",
+                        "Heiko K.",
                         Role.Customer
                     )
                 )
@@ -98,9 +105,9 @@ Here are some ideas to get you started:
             (ExperienceLevel.Intermediate,"CleanCode Education"),
             (ExperienceLevel.Intermediate,"Scriptable Objects"),
             (ExperienceLevel.Intermediate,"Project Management"),
+            (ExperienceLevel.Intermediate,"CineMachine"),
             (ExperienceLevel.BelowIntermediate,"Unity Collab"),
             (ExperienceLevel.BelowIntermediate,"Spline Tools"),
-            (ExperienceLevel.BelowIntermediate,"CineMachine"),
             (ExperienceLevel.BelowIntermediate,"Runtime Mesh Operations"),
         };
     
@@ -128,10 +135,10 @@ Here are some ideas to get you started:
         };
     
     
-        [Tooltip("Education information of Yagiz")]
+        [Tooltip("Education of Yagiz")]
         private Education _education = new Education(
             highSchool: (EducationState.Completed, "Manisa Anatolian Technical and Industrial Profession High School, Data Analysis Program"),
-            graduate: (EducationState.Completed, "Muğla Sıtkı Koçman University, Department of Information Systems Engineering"),
+            bachelors: (EducationState.Completed, "Muğla Sıtkı Koçman University, Department of Information Systems Engineering"),
             masters: (EducationState.InProgress, "Muğla Sıtkı Koçman University, Department of Digital Game Design and Technologies"),
             phds: (EducationState.Hopeful, "?")
         );
