@@ -41,7 +41,7 @@ Rollercoaster Simulator : https://yagizayer.github.io/RollerCoasterSimulator/<br
         [SerializeField] private WorkArea _workingPreferences = WorkArea.GameMaking;
     
     
-        [Tooltip("General working experience")]
+        [Tooltip("General working experience")] // TODO : Gain more experience
         private List<(DateRange, int, Company)> _workingExperience = new List<(DateRange, int, Company)>()
         {
             (
