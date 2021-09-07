@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: M'dude!
 - ⚡ Fun fact: I can do this:</br> ![GooglyEyes](Resources/googlyEyes.png)
 
-------------------------    Play My Games!    ------------------------*/<br>
-All of my games is open source
+------------------------    Play My Games!    ------------------------ <br>
+All of my games is open source<br>
 
-Fps Reflex Enhancer : https://yagizayer.github.io/Fps_Reflex_Game_v03/
-Temple of Artemis : https://yagizayer.github.io/Temple-Of-Artemis/
-Health Racer : https://yagizayer.github.io/HealthRacer/
-Rollercoaster Simulator : https://yagizayer.github.io/RollerCoasterSimulator/
+Fps Reflex Enhancer : https://yagizayer.github.io/Fps_Reflex_Game_v03/<br>
+Temple of Artemis : https://yagizayer.github.io/Temple-Of-Artemis/<br>
+Health Racer : https://yagizayer.github.io/HealthRacer/<br>
+Rollercoaster Simulator : https://yagizayer.github.io/RollerCoasterSimulator/<br>
 
 ------------------------    yagizayer.cs    ------------------------*/<br>
 
