@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can do this:</br> ![GooglyEyes](Resources/googlyEyes.png)
 
 ------------------------    Play My Games!    ------------------------ <br>
-All of my games is open source<br>
+All of my games are open source<br>
 
 Fps Reflex Enhancer : https://yagizayer.github.io/Fps_Reflex_Game_v03/<br>
 Temple of Artemis : https://yagizayer.github.io/Temple-Of-Artemis/<br>
