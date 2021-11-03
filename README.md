@@ -1,13 +1,4 @@
-
-<<<<<<< Updated upstream
-### Hi there 👋 ssss
-=======
-<<<<<<< HEAD
-### Hi there 👋aaaaa
-=======
-### Hi there 👋 ssss
->>>>>>> 7ef9f446e7b0e17737f65dc137d87d9ff9b857ee
->>>>>>> Stashed changes
+### Hi there 👋 
 
 <!--
 **yagizayer/yagizayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
