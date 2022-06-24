@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, i will do my best to help :)
 - 📫 How to reach me: [![GmailIcon](Resources/gmailIcon.png)](mailto:yagizayeryy@gmail.com)
 - 😄 Pronouns: M'dude!
-- 📜 Resume: ![GooglyEyes](Resources/YagizAyerCv.pdf)
+- 📜 Resume: !(Resources/YagizAyerCv.pdf)
 - ⚡ Fun fact: I can do this:</br> ![GooglyEyes](Resources/googlyEyes.png)
 
 ------------------------    Play My Games!    ------------------------ <br>
