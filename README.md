@@ -70,7 +70,7 @@
       </tr>
       <!--Land Shark-->
       <tr>
-      <td><img src="Resources/Portfolio/LandShark_Icon.png"  width="75" height="75"></td>
+      <td><img src="Resources/Portfolio/Landshark_Icon.png"  width="75" height="75"></td>
       <td>
             <b>Land Shark</b></br>
             <a href="https://play.google.com/store/apps/details?id=com.NanoGames.LandShark">Play at Android Now!</a></br>
