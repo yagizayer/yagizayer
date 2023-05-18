@@ -14,7 +14,7 @@
 <table>
       <!--Dodge Attack!-->
       <tr>
-          <td><img src="Resources/Portfolio/DodgeAttack_Icon.png"  width="50" height="50"></td>
+          <td><img src="Resources/Portfolio/DodgeAttack_Icon.png"  width="75" height="75"></td>
           <td>
             <b>Dodge Attack!</b></br>
             <a href="https://play.google.com/store/apps/details?id=com.NanoGames.DodgeAttack">Play at Android Now!</a></br>
@@ -22,7 +22,7 @@
       </tr>
       <!--Trouble Bullet-->
       <tr>
-          <td><img src="Resources/Portfolio/TroubleBullet_Icon.png"  width="50" height="50"></td>
+          <td><img src="Resources/Portfolio/TroubleBullet_Icon.png"  width="75" height="75"></td>
           <td>
             <b>Trouble Bullet</b></br>
             <a href="https://play.google.com/store/apps/details?id=com.NanoGames.TroubleBullet">Play at Android Now!</a></br>
@@ -30,7 +30,7 @@
       </tr>
       <!--Zombie Mower-->
       <tr>
-      <td><img src="Resources/Portfolio/ZombieMower_Icon.png"  width="50" height="50"></td>
+      <td><img src="Resources/Portfolio/ZombieMower_Icon.png"  width="75" height="75"></td>
       <td>
             <b>Zombie Mower</b></br>
             <a href="https://play.google.com/store/apps/details?id=com.NanoGames.ZombieMower">Play at Android Now!</a></br>
@@ -38,7 +38,7 @@
       </tr>
       <!--Backyard Farm-->
       <tr>
-      <td><img src="Resources/Portfolio/BackyardFarm_Icon.png"  width="50" height="50"></td>
+      <td><img src="Resources/Portfolio/BackyardFarm_Icon.png"  width="75" height="75"></td>
       <td>
             <b>Backyard Farm</b></br>
             <a href="https://play.google.com/store/apps/details?id=com.NanoGames.BackyardFarm">Play at Android Now!</a></br>
@@ -46,7 +46,7 @@
       </tr>
       <!--Number Wars-->
       <tr>
-      <td><img src="Resources/Portfolio/NumberWars_Icon.png"  width="50" height="50"></td>
+      <td><img src="Resources/Portfolio/NumberWars_Icon.png"  width="75" height="75"></td>
       <td>
             <b>Number Wars</b></br>
             <a href="https://play.google.com/store/apps/details?id=com.NanoGames.NumberWars">Play at Android Now!</a></br>
@@ -54,7 +54,7 @@
       </tr>
       <!--Slip n' Flip-->
       <tr>
-      <td><img src="Resources/Portfolio/SlipnFlip_Icon.png"  width="50" height="50"></td>
+      <td><img src="Resources/Portfolio/SlipnFlip_Icon.png"  width="75" height="75"></td>
       <td>
             <b>Slip n' Flip</b></br>
             <a href="https://play.google.com/store/apps/details?id=com.NanoGames.SlipnFlip">Play at Android Now!</a></br>
@@ -62,7 +62,7 @@
       </tr>
       <!--ZClimb-->
       <tr>
-      <td><img src="Resources/Portfolio/ZClimb_Icon.png"  width="50" height="50"></td>
+      <td><img src="Resources/Portfolio/ZClimb_Icon.png"  width="75" height="75"></td>
       <td>
             <b>ZClimb</b></br>
             <a href="https://play.google.com/store/apps/details?id=com.NanoGames.ZClimb">Play at Android Now!</a></br>
@@ -70,7 +70,7 @@
       </tr>
       <!--Land Shark-->
       <tr>
-      <td><img src="Resources/Portfolio/Landshark_Icon.png"  width="50" height="50"></td>
+      <td><img src="Resources/Portfolio/LandShark_Icon.png"  width="75" height="75"></td>
       <td>
             <b>Land Shark</b></br>
             <a href="https://play.google.com/store/apps/details?id=com.NanoGames.LandShark">Play at Android Now!</a></br>
